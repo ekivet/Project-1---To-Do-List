@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListIsh</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_listview">You\'re not getting any younger!
+        Tap the \'+\' button to add your first list...</string>
+    <string name="title_activity_list">ToDoListActivity</string>
+</resources>
